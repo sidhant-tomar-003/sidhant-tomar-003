@@ -1,8 +1,8 @@
 -  Hi 👋 I’m @Sid-the-Slothh
-- I’m interested in all sorts of programming concepts. Right now, I am looking into basic math-less encryption and learning about using math concepts for more 
-robust encryption. I will look into more interesting and advanced concepts once I have my basics down.
+- I’m interested in all sorts of programming concepts. Right now, I am looking into competitive programming and designing algorithms. I started working on Leetcode a couple months ago, and I will continue to until I master basic algorithm design :) 
+- I'm also going to dabble in ML and knowledge based systems once I get around to it.
 - I’m currently learning python and C++
--  I’m not currently looking to collaborate, but any feedback on posted projects would be valued 
+- I’m not currently looking to collaborate, but any feedback on posted projects would be valued greatly :D
 - How to reach me : Discord: Sid #2281
 
 <!---
