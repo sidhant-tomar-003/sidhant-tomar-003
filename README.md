@@ -7,11 +7,11 @@
 
 
 <p align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-the-Slothh&theme=gotham" alt="h-sm" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidhant-tomar-003&theme=gotham" alt="h-sm" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sid-the-Slothh&theme=gotham" alt="h-sm" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sidhant-tomar-003&theme=gotham" alt="h-sm" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-the-Slothh&show_icons=true&locale=en&layout=compact&theme=gotham" alt="h-sm" width="330"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidhant-tomar-003&show_icons=true&locale=en&layout=compact&theme=gotham" alt="h-sm" width="330"/>
 </p>
