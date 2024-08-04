@@ -3,7 +3,8 @@
 - Currently working on ASR with speechbrain :)
 - Hoping to get back on track with CP on Codeforces
 - DM me any time : Discord: Sid #2281
-
+- Leetcode: https://leetcode.com/u/sidhant_tomar/
+- Codeforces: https://codeforces.com/profile/sidhant.tomar003
 
 <p align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidhant-tomar-003&theme=gotham" alt="h-sm" />
