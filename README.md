@@ -1,6 +1,6 @@
 -  Hi 👋 I’m @Sid-the-Slothh
-- Budding Full Stack engineer and AI enthusiast 
-- Currently working on ASR with speechbrain :)
+- Associate Software Engineer at rtCamp and AI enthusiast 
+- Currently toying with LLMs on local envs : )
 - Hoping to get back on track with CP on Codeforces
 - DM me any time : Discord: Sid #2281
 - Leetcode: https://leetcode.com/u/sidhant_tomar/
