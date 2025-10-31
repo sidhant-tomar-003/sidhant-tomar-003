@@ -1,4 +1,5 @@
 Hi 👋 I'm Sidhant.
+
 Currently a Associate Software Engineer at rtCamp.
 
 Also am an AI hobbyist, who often plays around with models in Jupyter Notebook. Here's a glimpse at some fun stuff I did with hooking up some models in kaggle:
