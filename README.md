@@ -1,8 +1,8 @@
 Hi 👋 I'm Sidhant.
 
-Currently a Associate Software Engineer at rtCamp.
+Currently a Software Engineer at rtCamp.
 
-Also am an AI hobbyist, who often plays around with models in Jupyter Notebook. Here's a glimpse at some fun stuff I did with hooking up some models in kaggle:
+Also am an AI hobbyist. I often play around with models in Jupyter Notebook. Here's a teaser at some fun stuff I did with hooking up some models in kaggle:
 
 <div style="display: flex; gap: 10px; justify-content: center;">
   <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/97641ccc-c196-41d2-a1fd-6cd36b1c3fe9" />
